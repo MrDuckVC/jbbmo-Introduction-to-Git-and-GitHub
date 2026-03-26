@@ -62,10 +62,6 @@ bash simple-interest.sh
 python3 compound_interest.py
 ```
 
-## Author
-
-**Valentin Cunev (MrDuckVC)** _Student who completed this project as part of the IBM educational certification._
-
 ## License
 
 This project is licensed under the terms of the [Apache License 2.0](https://www.google.com/search?q=LICENSE).
